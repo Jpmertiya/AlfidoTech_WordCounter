@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlfidoTech_WordCounter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlfidoTech_WordCounter_jar</output-path>
+    <root id="archive" name="AlfidoTech_WordCounter.jar">
+      <element id="module-output" name="AlfidoTech_WordCounter" />
+    </root>
+  </artifact>
+</component>
